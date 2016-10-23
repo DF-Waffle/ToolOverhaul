@@ -1,0 +1,40 @@
+item.obsidianIngot.name=Obsidian Ingot
+
+item.diamondCrusher.name=Diamond Crusher
+
+
+
+item.emerald_Pax.name=Emerald Paxel
+item.emerald_Pickaxe.name=Emerald Pickaxe
+item.emerald_Shovel.name=Emerald Shovel
+item.emerald_Axe.name=Emerald Axe
+item.emerald_Sword.name=Emerald Sword
+item.emerald_Hoe.name=Emerald Hoe
+
+item.obsidian_Pickaxe.name=Obsidian Pickaxe
+item.obsidian_Shovel.name=Obsidian Shovel
+item.obsidian_Axe.name=Obsidian Axe
+item.obsidian_Sword.name=Obsidian Sword
+item.obsidian_Hoe.name=Obsidian Hoe
+item.obsidian_Pax.name=Obsidian Paxel
+
+item.star_Pickaxe.name=Nether Star Pickaxe
+item.star_Shovel.name=Nether Star Shovel
+item.star_Axe.name=Nether Star Axe
+item.star_Sword.name=Nether Star Sword
+item.star_Hoe.name=Nether Star Hoe
+item.star_Pax.name=Nether Star Paxel
+
+item.wooden_Pax.name=Wooden Paxel
+item.iron_Pax.name=Iron Paxel
+item.gold_Pax.name=Gold Paxel
+item.diamond_Pax.name=Diamond Paxel
+
+
+tile.netherStarBlock.name=Nether Star Block
+tile.testblock.name=Test Block
+
+
+
+
+itemGroup.toCreativeTab=Tool Overhaul
